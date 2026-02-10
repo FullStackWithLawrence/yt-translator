@@ -230,7 +230,7 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python translate.py input.srt [lang]")
+        print("Usage: python translate.py input.srt")
         sys.exit(1)
 
     file_path = sys.argv[1]
