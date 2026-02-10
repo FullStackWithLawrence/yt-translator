@@ -1,0 +1,15 @@
+1.English en
+2.Spanish (LatAm) es-419
+3.Spanish (Spain) es-ES
+4.Portuguese (Brazil) pt-BR
+5.Portuguese (Portugal) pt-PT
+6.French fr
+7.German de
+8.Arabic ar
+9.Hindi hi
+10.Bengali bn
+11.Urdu ur
+12.Indonesian id
+13.Vietnamese vi
+14.Turkish tr
+15.Chinese Simplified zh-Hans
